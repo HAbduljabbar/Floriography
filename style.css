@@ -1,0 +1,13 @@
+body {
+  color: #6464fa;
+  background: #c8c800;
+}
+
+#Master-Image {
+  display: block;
+  margin: auto;
+}
+
+#Head-of-page {
+  text-align: center;
+}
